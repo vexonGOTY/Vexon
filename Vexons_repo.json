@@ -1,8 +1,8 @@
 {
-  "name": "Vexon‘s repo",
-  "identifier": "fyi.zxcvbn.aio",
-  "iconURL": "https://raw.githubusercontent.com/vexonGOTY/Vexon/refs/heads/main/IMG_1052.PNG",
-  "apps": [
+    "name": "Vexon‘s repo", 
+    "identifier": "fyi.zxcvbn.aio",
+    "iconURL": "https://raw.githubusercontent.com/vexonGOTY/Vexon/refs/heads/main/IMG_1052.PNG",
+    "apps": [
     {
       "name": "YAZIO",
       "bundleIdentifier": "com.yazio.ios.YAZIO",
