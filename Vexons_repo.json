@@ -1,7 +1,7 @@
 {
   "name": "Vexon's repo",
   "identifier": "fyi.zxcvbn.aio",
-  "icon": "https://raw.githubusercontent.com/vexonGOTY/Vexon/refs/heads/main/IMG_1052.png?raw=true",
+  "iconURL": "https://raw.githubusercontent.com/vexonGOTY/Vexon/refs/heads/main/IMG_1052.png?raw=true",
   "apps": [
     {
       "name": "YAZIO",
